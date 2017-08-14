@@ -1,0 +1,161 @@
+;; This buffer is for text that is not saved, and for Lisp evaluation.
+;; To create a file, visit it with C-x C-f and enter text in its buffer.
+
+(sh  "/Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/bin/java" "-Daj.class.path=/Users/ethael/development/vassal.aspectj/target/classes:/Users/ethael/development/vassal.aspectj/target/test-classes:/Users/ethael/development/vassal.aspectj/target/classes" "-javaagent:/Users/ethael/Downloads/Eclipse.app/Contents/Eclipse/plugins/org.aspectj.weaver_1.8.9.201604061446.jar" "-classpath /Users/ethael/Downloads/Eclipse.app/Contents/Eclipse/plugins/org.aspectj.weaver_1.8.9.201604061446.jar:/Users/ethael/Downloads/Eclipse.app/Contents/Eclipse/plugins/org.aspectj.runtime_1.8.9.201604061446.jar:/Users/ethael/development/vassal.aspectj/target/classes:/Users/ethael/development/vassal.aspectj/target/test-classes:/Users/ethael/development/vassal.aspectj/target/classes" "com.ethaneldridge.salvo.vassal.membrane.GameWrapper" "--standalone /Users/ethael/vassal.modules/Labyrinth_v4.2.vmod")
+
+
+
+
+(require '[clojure.java.io :as io])
+(import '[java.io StringWriter]
+        '[java.net Socket])
+
+(defn send-request
+  "Sends an HTTP GET request to the specified host, port, and path"
+  [host port path]
+  (with-open [sock (Socket. host port)
+              writer (io/writer sock)
+              reader (io/reader sock)
+              response (StringWriter.)]
+    (.append writer ( str path "\n"))
+    (.flush writer)
+    (io/copy reader response)
+    (str response)))
+
+(send-request "localhost" 3030  "{\"POST_PIECE\": {\"id\":0,\"imageName\":\"http://ethaneldridge.com/image.png\",\"locationNew\":{\"x\":1110,\"y\":120},\"locationOld\":{\"x\":1010,\"y\":120},\"name\":\"testPiece\"}}")
+
+(send-request "localhost" 3030  "{\"GET_GAMESTATE\": {}}")
+
+(send-request "localhost" 3030  "{\"POST_MAP_DOUBLECLICK\": {\"mapId\": \"Map0\", \"salvoPoint\": {\"x\": 1049, \"y\": 285}}}")
+(send-request "localhost" 3030  "{\"POST_TURNTRACKER\":{}}")
+
+(send-request "localhost" 3030 "{\"GET_MAINMAP\": {\"queryParameters\": { \"id\": \"Map0\" }}} ")
+
+Axis & Allies:
+mouseClicked: p.x is 891, p.y is 189, clickCount is 1
+mouseReleased: p.x is 947, p.y is 333, clickCount is 1
+
+; Double-click the russian stack of infantry in Caucusus
+{
+  "leftDoubleClick": {
+    "targetType": "MAP",
+    "targetId": "Map0",
+    "salvoPoint": {
+      "x": 936,
+      "y": 272
+    }
+  }
+}
+
+; Fighter Move
+{
+  "gamePiece": {
+    "id": "NA",
+    "name": "NA",
+    "imageName": "string",
+    "stackName": "string",
+    "dimension": {
+      "width": 0,
+      "height": 0
+    },
+    "locationOld": {
+      "salvoMapId": "Map0",
+      "salvoPoint": {
+        "x": 948,
+        "y": 187
+      }
+    },
+    "locationNew": {
+      "salvoMapId": "Map0",
+      "salvoPoint": {
+        "x": 1200,
+        "y": 400
+      }
+    }
+  }
+}
+
+; Factory Move Back
+{
+  "gamePiece": {
+    "id": "NA",
+    "name": "NA",
+    "imageName": "string",
+    "stackName": "string",
+    "dimension": {
+      "width": 0,
+      "height": 0
+    },
+    "locationOld": {
+      "salvoMapId": "Map0",
+      "salvoPoint": {
+        "x": 1200,
+        "y": 400
+      }
+    },
+    "locationNew": {
+      "salvoMapId": "Map0",
+      "salvoPoint": {
+        "x": 948,
+        "y": 187
+      }
+    }
+  }
+}
+
+; Factory Move
+{
+  "gamePiece": {
+    "id": "NA",
+    "name": "NA",
+    "imageName": "string",
+    "stackName": "string",
+    "dimension": {
+      "width": 0,
+      "height": 0
+    },
+    "locationOld": {
+      "salvoMapId": "Map0",
+      "salvoPoint": {
+        "x": 1114,
+        "y": 236
+      }
+    },
+    "locationNew": {
+      "salvoMapId": "Map0",
+      "salvoPoint": {
+        "x": 1184,
+        "y": 417
+      }
+    }
+  }
+}
+
+; Factory Move Back
+{
+  "gamePiece": {
+    "id": "NA",
+    "name": "NA",
+    "imageName": "string",
+    "stackName": "string",
+    "dimension": {
+      "width": 0,
+      "height": 0
+    },
+    "locationOld": {
+      "salvoMapId": "Map0",
+      "salvoPoint": {
+        "x": 1184,
+        "y": 417
+      }
+    },
+    "locationNew": {
+      "salvoMapId": "Map0",
+      "salvoPoint": {
+        "x": 1114,
+        "y": 236
+      }
+    }
+  }
+}
+
