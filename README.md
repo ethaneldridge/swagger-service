@@ -1,8 +1,7 @@
 # swagger-service
 
-generated using Luminus version "2.9.10.74"
-
-FIXME
+Provides HTTP API for salvo: https://github.com/ethaneldridge/salvo
+This project was generated using Luminus version "2.9.10.74"
 
 ## Prerequisites
 
@@ -16,6 +15,4 @@ To start a web server for the application, run:
 
     lein run
 
-## License
-
-Copyright © 2017 FIXME
+This project will expect salvo to be running on the localhost on port 3000 (the default for that project)
