@@ -1,0 +1,39 @@
+<!doctype html>
+<html>
+  <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-111514107-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-111514107-1');
+    </script>
+
+    <link rel="icon" href="data:;base64,iVBORw0KGgo=">
+    <script type="text/javascript" src="js/salvo.js"></script>
+    <script
+        src="https://code.jquery.com/jquery-3.2.1.js"
+        integrity="sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE="
+        crossorigin="anonymous"></script>
+
+    <script type="text/javascript">
+      window.addEventListener("load", eventWindowLoaded, false);	
+      function eventWindowLoaded () {
+        init();
+      }
+    </script>
+
+
+  </head>
+  <body>
+    <div id="module"></div>
+    <div id="turn"></div>
+    <textarea id="chats"></textarea>
+    <canvas id="canvasMap" width="1000" height="2000" style="background-color:#efefef;cursor:default">
+      Canvas not supported
+    </canvas>
+    <div id="demo">Demo here</demo>
+  </body>
+</html>

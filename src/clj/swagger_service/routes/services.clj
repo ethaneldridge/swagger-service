@@ -73,35 +73,43 @@
        ok
        (content-type "application/json")))
 
-    (GET "/toolbarmenu" []
-      :summary      "Get the toolbar menu"
+    (GET "/toolbars" []
+      :summary      "Get the collection of toolbars"
       (->
-       (send-request "localhost" 3030  (str "{\"GET_TOOLBAR_MENU\": {}}"))
+       (send-request "localhost" 3030  (str "{\"GET_TOOLBARS\": {}}"))
        ok
        (content-type "application/json")))
 
-    (POST "/gamepiece" []
-      :body-params [gamePiece :- GamePiece]
-      :summary     "Move a GamePiece from locationOld to locationNew"
-      (let [gamePieceStr (json/write-str gamePiece)]
-        (->
-          (send-request "localhost" 3030 (str "{\"POST_PIECE\": " gamePieceStr "}"))
-         ok
-         (content-type "application/json"))))
-
-    (POST "/leftdoubleclick" []
-      :body-params [leftDoubleClick :- LeftDoubleClick]
-      :summary     "Left Double-Click the mouse on a target element"
-      (let [leftDoubleClickStr (json/write-str leftDoubleClick)]
-        (->
-          (send-request "localhost" 3030 (str "{\"POST_LEFT_DOUBLE_CLICK\": " leftDoubleClickStr "}"))
-         ok
-         (content-type "application/json"))))
-
-    (POST "/turntracker" []
-      :summary     "Advance the turn-tracker"
+    (GET "/chats" []
+      :summary      "Get all messages sent to the chat window"
       (->
-       (send-request "localhost" 3030 (str "{\"POST_TURNTRACKER\": {}}"))
+       (send-request "localhost" 3030  (str "{\"GET_CHATS\": {}}"))
        ok
-       (content-type "application/json"))))
+       (content-type "application/json")))
+
+    ;; (POST "/gamepiece" []
+    ;;   :body-params [gamePiece :- GamePiece]
+    ;;   :summary     "Move a GamePiece from locationOld to locationNew"
+    ;;   (let [gamePieceStr (json/write-str gamePiece)]
+    ;;     (->
+    ;;       (send-request "localhost" 3030 (str "{\"POST_PIECE\": " gamePieceStr "}"))
+    ;;      ok
+    ;;      (content-type "application/json"))))
+
+    ;; (POST "/leftdoubleclick" []
+    ;;   :body-params [leftDoubleClick :- LeftDoubleClick]
+    ;;   :summary     "Left Double-Click the mouse on a target element"
+    ;;   (let [leftDoubleClickStr (json/write-str leftDoubleClick)]
+    ;;     (->
+    ;;       (send-request "localhost" 3030 (str "{\"POST_LEFT_DOUBLE_CLICK\": " leftDoubleClickStr "}"))
+    ;;      ok
+    ;;      (content-type "application/json"))))
+
+    ;; (POST "/turntracker" []
+    ;;   :summary     "Advance the turn-tracker"
+    ;;   (->
+    ;;    (send-request "localhost" 3030 (str "{\"POST_TURNTRACKER\": {}}"))
+    ;;    ok
+    ;;    (content-type "application/json")))
+    )
   )
