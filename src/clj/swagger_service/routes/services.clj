@@ -58,34 +58,37 @@
   (context "/salvo" [] ;; ECE 2017.08.08
     :tags ["Vassal"] ;; ECE 2017.08.09
 
-    (GET "/map" []
-      :query-params [id :- s/Str]
-      :summary      "Get the map with the id provided on the query parameter"
-      (->
-       (send-request "localhost" 3030  (str "{\"GET_SALVOMAP_BY_ID\": {\"queryParameters\": { \"id\": \"" id "\"}}}"))
-       ok
-       (content-type "application/json")))
+    ;; (GET "/map" []
+    ;;   :query-params [id :- s/Str]
+    ;;   :summary      "Get the map with the id provided on the query parameter"
+    ;;   (->
+    ;;    (send-request "localhost" 3030  (str "{\"GET_SALVOMAP_BY_ID\": {\"queryParameters\": { \"id\": \"" id "\"}}}"))
+    ;;    ok
+    ;;    (content-type "application/json")))
 
     (GET "/gamestate" []
       :summary      "Get the complete game state"
       (->
-       (send-request "localhost" 3030  (str "{\"GET_GAMESTATE\": {}}"))
+;       (send-request "localhost" 3030  (str "{\"GET_GAMESTATE\": {}}"))
+       (slurp "./private/gamestate/responseBody.json")
        ok
        (content-type "application/json")))
 
-    (GET "/toolbars" []
-      :summary      "Get the collection of toolbars"
-      (->
-       (send-request "localhost" 3030  (str "{\"GET_TOOLBARS\": {}}"))
-       ok
-       (content-type "application/json")))
+
+    ;; (GET "/toolbars" []
+    ;;      :summary      "Get the collection of toolbars"
+    ;;      (->
+    ;;       (send-request "localhost" 3030  (str "{\"GET_TOOLBARS\": {}}"))
+    ;;       ok
+    ;;       (content-type "application/json")))
 
     (GET "/chats" []
-      :summary      "Get all messages sent to the chat window"
-      (->
-       (send-request "localhost" 3030  (str "{\"GET_CHATS\": {}}"))
-       ok
-       (content-type "application/json")))
+         :summary      "Get all messages sent to the chat window"
+         (->
+;          (send-request "localhost" 3030  (str "{\"GET_CHATS\": {}}"))
+          (slurp "./private/chats/responseBody.json")
+          ok
+          (content-type "application/json")))
 
     ;; (POST "/gamepiece" []
     ;;   :body-params [gamePiece :- GamePiece]

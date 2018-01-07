@@ -1,0 +1,5314 @@
+{
+  "salvoTurnTracker": {
+    "turnDescription": "Spring, 1943: Germany"
+  },
+  "salvoMaps": [
+    {
+      "id": "Map0",
+      "name": "Map",
+      "imageName": "map.png",
+      "zoom": 0.8,
+      "pieces": [
+        {
+          "id": "1506219302462",
+          "name": "Marker",
+          "imageName": "US marker.png",
+          "stackName": "1506219302463",
+          "dimension": {
+            "width": 62,
+            "height": 64
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 640,
+              "y": 788
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1508081332792",
+          "name": "Marker",
+          "imageName": "Japan marker.png",
+          "stackName": "1508081332793",
+          "dimension": {
+            "width": 69,
+            "height": 69
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 1763,
+              "y": 690
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1508081834727",
+          "name": "Marker",
+          "imageName": "US marker.png",
+          "stackName": "1508081834728",
+          "dimension": {
+            "width": 62,
+            "height": 64
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 826,
+              "y": 861
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1512340362743",
+          "name": "Marker",
+          "imageName": "Japan marker.png",
+          "stackName": "1512340362744",
+          "dimension": {
+            "width": 69,
+            "height": 69
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 2046,
+              "y": 236
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1505691415277",
+          "name": "Battleship",
+          "imageName": "Battleship scan UK.png",
+          "stackName": "1514141357707",
+          "dimension": {
+            "width": 190,
+            "height": 38
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 541,
+              "y": 257
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1514141397929",
+          "name": "Marker",
+          "imageName": "UK marker.png",
+          "stackName": "1514141357707",
+          "dimension": {
+            "width": 66,
+            "height": 65
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 541,
+              "y": 257
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1505691415022",
+          "name": "Battleship",
+          "imageName": "Battleship scan German.png",
+          "stackName": "1514406466441",
+          "dimension": {
+            "width": 190,
+            "height": 38
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 706,
+              "y": 711
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1505693771575",
+          "name": "Marker",
+          "imageName": "German marker.png",
+          "stackName": "1514406466441",
+          "dimension": {
+            "width": 66,
+            "height": 67
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 706,
+              "y": 711
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1508081166243",
+          "name": "Marker",
+          "imageName": "US marker.png",
+          "stackName": "1514406517106",
+          "dimension": {
+            "width": 62,
+            "height": 64
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 2204,
+              "y": 1012
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1514406641068",
+          "name": "Marker",
+          "imageName": "Russian marker.png",
+          "stackName": "1514406641069",
+          "dimension": {
+            "width": 67,
+            "height": 66
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 1066,
+              "y": 473
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1505691414845",
+          "name": "Industrial Complex",
+          "imageName": "Factory.png",
+          "stackName": null,
+          "dimension": {
+            "width": 46,
+            "height": 35
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 1443,
+              "y": 140
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1505691415032",
+          "name": "Industrial Complex",
+          "imageName": "Factory.png",
+          "stackName": null,
+          "dimension": {
+            "width": 46,
+            "height": 35
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 904,
+              "y": 555
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1505691415199",
+          "name": "Industrial Complex",
+          "imageName": "Factory.png",
+          "stackName": null,
+          "dimension": {
+            "width": 46,
+            "height": 35
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 640,
+              "y": 378
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1505691415345",
+          "name": "Industrial Complex",
+          "imageName": "Factory.png",
+          "stackName": null,
+          "dimension": {
+            "width": 46,
+            "height": 35
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 2642,
+              "y": 689
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1505691415456",
+          "name": "Industrial Complex",
+          "imageName": "Factory.png",
+          "stackName": null,
+          "dimension": {
+            "width": 46,
+            "height": 35
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 1377,
+              "y": 307
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1505691415480",
+          "name": "Industrial Complex",
+          "imageName": "Factory.png",
+          "stackName": null,
+          "dimension": {
+            "width": 46,
+            "height": 35
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 1174,
+              "y": 160
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1505691415586",
+          "name": "Industrial Complex",
+          "imageName": "Factory.png",
+          "stackName": null,
+          "dimension": {
+            "width": 46,
+            "height": 35
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 2087,
+              "y": 641
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1505787701419",
+          "name": "Industrial Complex",
+          "imageName": "Factory.png",
+          "stackName": null,
+          "dimension": {
+            "width": 46,
+            "height": 35
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 1461,
+              "y": 878
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1505691415321",
+          "name": "Industrial Complex",
+          "imageName": "Factory.png",
+          "stackName": null,
+          "dimension": {
+            "width": 46,
+            "height": 35
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 57,
+              "y": 623
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1505691414843",
+          "name": "Antiaircraft",
+          "imageName": "aa gun.png",
+          "stackName": null,
+          "dimension": {
+            "width": 38,
+            "height": 44
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 801,
+              "y": 470
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1505691414987",
+          "name": "Antiaircraft",
+          "imageName": "aa gun.png",
+          "stackName": null,
+          "dimension": {
+            "width": 38,
+            "height": 44
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 941,
+              "y": 620
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1505691415112",
+          "name": "Antiaircraft",
+          "imageName": "aa gun.png",
+          "stackName": null,
+          "dimension": {
+            "width": 38,
+            "height": 44
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 697,
+              "y": 500
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1505691415173",
+          "name": "Antiaircraft",
+          "imageName": "aa gun.png",
+          "stackName": null,
+          "dimension": {
+            "width": 38,
+            "height": 44
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 683,
+              "y": 270
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1505691415323",
+          "name": "Antiaircraft",
+          "imageName": "aa gun.png",
+          "stackName": null,
+          "dimension": {
+            "width": 38,
+            "height": 44
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 211,
+              "y": 607
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1505691415347",
+          "name": "Antiaircraft",
+          "imageName": "aa gun.png",
+          "stackName": null,
+          "dimension": {
+            "width": 38,
+            "height": 44
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 2589,
+              "y": 551
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1505691415454",
+          "name": "Antiaircraft",
+          "imageName": "aa gun.png",
+          "stackName": null,
+          "dimension": {
+            "width": 38,
+            "height": 44
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 1323,
+              "y": 259
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1505691415584",
+          "name": "Antiaircraft",
+          "imageName": "aa gun.png",
+          "stackName": null,
+          "dimension": {
+            "width": 38,
+            "height": 44
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 2098,
+              "y": 479
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1505691415478",
+          "name": "Antiaircraft",
+          "imageName": "aa gun.png",
+          "stackName": null,
+          "dimension": {
+            "width": 38,
+            "height": 44
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 1231,
+              "y": 162
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1505691415657",
+          "name": "Aircraft Carrier",
+          "imageName": "carrier scan Japan.png",
+          "stackName": "1505691415663",
+          "dimension": {
+            "width": 201,
+            "height": 48
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 2035,
+              "y": 735
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1512339869203",
+          "name": "Submarine",
+          "imageName": "sub scan Japan.png",
+          "stackName": "1512339869204",
+          "dimension": {
+            "width": 140,
+            "height": 35
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 1976,
+              "y": 615
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1508081773889",
+          "name": "Aircraft Carrier",
+          "imageName": "carrier scan US.png",
+          "stackName": "1514141362927",
+          "dimension": {
+            "width": 201,
+            "height": 48
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 536,
+              "y": 368
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1505691415254",
+          "name": "Transport",
+          "imageName": "transport scan UK.png",
+          "stackName": "1505691415255",
+          "dimension": {
+            "width": 160,
+            "height": 28
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 382,
+              "y": 982
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1514400986529",
+          "name": "Transport",
+          "imageName": "transport scan UK.png",
+          "stackName": "1514400986530",
+          "dimension": {
+            "width": 160,
+            "height": 28
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 760,
+              "y": 175
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1514400983945",
+          "name": "Transport",
+          "imageName": "transport scan UK.png",
+          "stackName": "1514400986530",
+          "dimension": {
+            "width": 160,
+            "height": 28
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 760,
+              "y": 175
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1506820469699",
+          "name": "Transport",
+          "imageName": "transport scan Japan.png",
+          "stackName": "1506820469700",
+          "dimension": {
+            "width": 160,
+            "height": 28
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 1748,
+              "y": 1008
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1514401266199",
+          "name": "Transport",
+          "imageName": "transport scan Japan.png",
+          "stackName": "1514401266200",
+          "dimension": {
+            "width": 160,
+            "height": 28
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 2003,
+              "y": 566
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1514401267958",
+          "name": "Transport",
+          "imageName": "transport scan Japan.png",
+          "stackName": "1514401266200",
+          "dimension": {
+            "width": 160,
+            "height": 28
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 2003,
+              "y": 566
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1505691415030",
+          "name": "Transport",
+          "imageName": "transport scan German.png",
+          "stackName": "1505691415031",
+          "dimension": {
+            "width": 160,
+            "height": 28
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 752,
+              "y": 670
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1506219076382",
+          "name": "Aircraft Carrier",
+          "imageName": "carrier scan US.png",
+          "stackName": "1511307026092",
+          "dimension": {
+            "width": 201,
+            "height": 48
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 2287,
+              "y": 1066
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1505691415350",
+          "name": "Battleship",
+          "imageName": "Battleship scan US.png",
+          "stackName": "1514406517107",
+          "dimension": {
+            "width": 190,
+            "height": 38
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 2256,
+              "y": 1021
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1508081777423",
+          "name": "Submarine",
+          "imageName": "sub scan US.png",
+          "stackName": "1514406517108",
+          "dimension": {
+            "width": 140,
+            "height": 35
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 2279,
+              "y": 1108
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1512340606361",
+          "name": "Transport",
+          "imageName": "transport scan US.png",
+          "stackName": "1512340606362",
+          "dimension": {
+            "width": 160,
+            "height": 28
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 2222,
+              "y": 1137
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1514406233784",
+          "name": "Aircraft Carrier",
+          "imageName": "carrier scan US.png",
+          "stackName": "1514406233785",
+          "dimension": {
+            "width": 201,
+            "height": 48
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 2505,
+              "y": 696
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1505691415073",
+          "name": "Infantry",
+          "imageName": "infantry german.png",
+          "stackName": "1505691415095",
+          "dimension": {
+            "width": 38,
+            "height": 62
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 732,
+              "y": 488
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1505691415080",
+          "name": "Infantry",
+          "imageName": "infantry german.png",
+          "stackName": "1505691415095",
+          "dimension": {
+            "width": 38,
+            "height": 62
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 732,
+              "y": 488
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1505691415218",
+          "name": "Infantry",
+          "imageName": "infantry uk.png",
+          "stackName": "1505691415219",
+          "dimension": {
+            "width": 38,
+            "height": 62
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 2619,
+              "y": 388
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1505691415226",
+          "name": "Infantry",
+          "imageName": "infantry uk.png",
+          "stackName": "1505691415232",
+          "dimension": {
+            "width": 38,
+            "height": 62
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 1899,
+              "y": 1340
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1505691415231",
+          "name": "Infantry",
+          "imageName": "infantry uk.png",
+          "stackName": "1505691415232",
+          "dimension": {
+            "width": 38,
+            "height": 62
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 1899,
+              "y": 1340
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1505691415366",
+          "name": "Infantry",
+          "imageName": "infantry us.png",
+          "stackName": "1505691415367",
+          "dimension": {
+            "width": 38,
+            "height": 62
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 2449,
+              "y": 881
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1505691415385",
+          "name": "Infantry",
+          "imageName": "infantry us.png",
+          "stackName": "1505691415386",
+          "dimension": {
+            "width": 38,
+            "height": 62
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 2359,
+              "y": 622
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1505691415625",
+          "name": "Infantry",
+          "imageName": "infantry japan.png",
+          "stackName": "1505691415626",
+          "dimension": {
+            "width": 38,
+            "height": 62
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 2036,
+              "y": 809
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1505691415629",
+          "name": "Infantry",
+          "imageName": "infantry japan.png",
+          "stackName": "1505691415630",
+          "dimension": {
+            "width": 38,
+            "height": 62
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 2194,
+              "y": 810
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1505691415647",
+          "name": "Infantry",
+          "imageName": "infantry japan.png",
+          "stackName": "1505691415648",
+          "dimension": {
+            "width": 38,
+            "height": 62
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 2082,
+              "y": 964
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1505691415674",
+          "name": "Infantry",
+          "imageName": "infantry japan.png",
+          "stackName": "1505691415675",
+          "dimension": {
+            "width": 38,
+            "height": 62
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 1665,
+              "y": 1106
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1505691415678",
+          "name": "Infantry",
+          "imageName": "infantry japan.png",
+          "stackName": "1505691415679",
+          "dimension": {
+            "width": 38,
+            "height": 62
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 1825,
+              "y": 1056
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1505691415682",
+          "name": "Infantry",
+          "imageName": "infantry japan.png",
+          "stackName": "1505691415683",
+          "dimension": {
+            "width": 38,
+            "height": 62
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 2061,
+              "y": 1149
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1505691415685",
+          "name": "Infantry",
+          "imageName": "infantry japan.png",
+          "stackName": "1505691415686",
+          "dimension": {
+            "width": 38,
+            "height": 62
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 2239,
+              "y": 1176
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1505691415309",
+          "name": "Armor",
+          "imageName": "tank scan US.png",
+          "stackName": "1506219275656",
+          "dimension": {
+            "width": 60,
+            "height": 60
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 195,
+              "y": 632
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1505691415139",
+          "name": "Infantry",
+          "imageName": "infantry uk.png",
+          "stackName": "1505691415153",
+          "dimension": {
+            "width": 38,
+            "height": 62
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 685,
+              "y": 363
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1505691415145",
+          "name": "Infantry",
+          "imageName": "infantry uk.png",
+          "stackName": "1505691415153",
+          "dimension": {
+            "width": 38,
+            "height": 62
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 685,
+              "y": 363
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1505691415152",
+          "name": "Armor",
+          "imageName": "tank scan UK.png",
+          "stackName": "1505691415153",
+          "dimension": {
+            "width": 60,
+            "height": 60
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 685,
+              "y": 363
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1505691415296",
+          "name": "Infantry",
+          "imageName": "infantry us.png",
+          "stackName": "1505691415310",
+          "dimension": {
+            "width": 38,
+            "height": 62
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 902,
+              "y": 841
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1508081783383",
+          "name": "Infantry",
+          "imageName": "infantry us.png",
+          "stackName": "1508081783384",
+          "dimension": {
+            "width": 38,
+            "height": 62
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 147,
+              "y": 641
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1512340616759",
+          "name": "Infantry",
+          "imageName": "infantry us.png",
+          "stackName": "1512340616760",
+          "dimension": {
+            "width": 38,
+            "height": 62
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 122,
+              "y": 655
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1512340614799",
+          "name": "Infantry",
+          "imageName": "infantry us.png",
+          "stackName": "1512340614800",
+          "dimension": {
+            "width": 38,
+            "height": 62
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 2678,
+              "y": 618
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1514406250549",
+          "name": "Infantry",
+          "imageName": "infantry us.png",
+          "stackName": "1512340614800",
+          "dimension": {
+            "width": 38,
+            "height": 62
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 2678,
+              "y": 618
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1511308488948",
+          "name": "Armor",
+          "imageName": "tank scan german.png",
+          "stackName": "1514141239622",
+          "dimension": {
+            "width": 60,
+            "height": 60
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 826,
+              "y": 232
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1511308487147",
+          "name": "Armor",
+          "imageName": "tank scan german.png",
+          "stackName": "1514141239622",
+          "dimension": {
+            "width": 60,
+            "height": 60
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 826,
+              "y": 232
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1514141057437",
+          "name": "Armor",
+          "imageName": "tank scan german.png",
+          "stackName": "1514141057438",
+          "dimension": {
+            "width": 60,
+            "height": 60
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 827,
+              "y": 581
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1514141100467",
+          "name": "Infantry",
+          "imageName": "infantry german.png",
+          "stackName": "1514141100468",
+          "dimension": {
+            "width": 38,
+            "height": 62
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 853,
+              "y": 470
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1514141101872",
+          "name": "Infantry",
+          "imageName": "infantry german.png",
+          "stackName": "1514141100468",
+          "dimension": {
+            "width": 38,
+            "height": 62
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 853,
+              "y": 470
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1514141103472",
+          "name": "Infantry",
+          "imageName": "infantry german.png",
+          "stackName": "1514141100468",
+          "dimension": {
+            "width": 38,
+            "height": 62
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 853,
+              "y": 470
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1514141119559",
+          "name": "Infantry",
+          "imageName": "infantry german.png",
+          "stackName": "1514141100468",
+          "dimension": {
+            "width": 38,
+            "height": 62
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 853,
+              "y": 470
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1514141121708",
+          "name": "Infantry",
+          "imageName": "infantry german.png",
+          "stackName": "1514141100468",
+          "dimension": {
+            "width": 38,
+            "height": 62
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 853,
+              "y": 470
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1514141098930",
+          "name": "Infantry",
+          "imageName": "infantry german.png",
+          "stackName": "1514141100468",
+          "dimension": {
+            "width": 38,
+            "height": 62
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 853,
+              "y": 470
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1505691415205",
+          "name": "Armor",
+          "imageName": "tank scan UK.png",
+          "stackName": "1514401117188",
+          "dimension": {
+            "width": 60,
+            "height": 60
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 1170,
+              "y": 496
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1505691415284",
+          "name": "Infantry",
+          "imageName": "infantry uk.png",
+          "stackName": "1514401160504",
+          "dimension": {
+            "width": 38,
+            "height": 62
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 1527,
+              "y": 703
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1506819451476",
+          "name": "Armor",
+          "imageName": "tank scan UK.png",
+          "stackName": "1514401160508",
+          "dimension": {
+            "width": 60,
+            "height": 60
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 1505,
+              "y": 660
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1505691415559",
+          "name": "Infantry",
+          "imageName": "infantry japan.png",
+          "stackName": "1505691415574",
+          "dimension": {
+            "width": 38,
+            "height": 62
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 2070,
+              "y": 591
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1505691415564",
+          "name": "Infantry",
+          "imageName": "infantry japan.png",
+          "stackName": "1505691415574",
+          "dimension": {
+            "width": 38,
+            "height": 62
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 2070,
+              "y": 591
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1506820477905",
+          "name": "Infantry",
+          "imageName": "infantry japan.png",
+          "stackName": "1514401589978",
+          "dimension": {
+            "width": 38,
+            "height": 62
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 1728,
+              "y": 901
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1505691415568",
+          "name": "Infantry",
+          "imageName": "infantry japan.png",
+          "stackName": "1514401589978",
+          "dimension": {
+            "width": 38,
+            "height": 62
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 1728,
+              "y": 901
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1505788464687",
+          "name": "Armor",
+          "imageName": "tank scan japan.png",
+          "stackName": "1505788464688",
+          "dimension": {
+            "width": 60,
+            "height": 60
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 2026,
+              "y": 642
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1512339996280",
+          "name": "Armor",
+          "imageName": "tank scan japan.png",
+          "stackName": "1505788464688",
+          "dimension": {
+            "width": 60,
+            "height": 60
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 2026,
+              "y": 642
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1506820475401",
+          "name": "Armor",
+          "imageName": "tank scan japan.png",
+          "stackName": "1505788464688",
+          "dimension": {
+            "width": 60,
+            "height": 60
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 2026,
+              "y": 642
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1514401272582",
+          "name": "Armor",
+          "imageName": "tank scan japan.png",
+          "stackName": "1505788464688",
+          "dimension": {
+            "width": 60,
+            "height": 60
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 2026,
+              "y": 642
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1505691415330",
+          "name": "Infantry",
+          "imageName": "infantry us.png",
+          "stackName": "1514406523898",
+          "dimension": {
+            "width": 38,
+            "height": 62
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 2192,
+              "y": 1120
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1505691415336",
+          "name": "Infantry",
+          "imageName": "infantry us.png",
+          "stackName": "1514406523898",
+          "dimension": {
+            "width": 38,
+            "height": 62
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 2192,
+              "y": 1120
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1505691415303",
+          "name": "Infantry",
+          "imageName": "infantry us.png",
+          "stackName": "1508081825569",
+          "dimension": {
+            "width": 38,
+            "height": 62
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 727,
+              "y": 778
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1505691415444",
+          "name": "Armor",
+          "imageName": "tank scan russian.png",
+          "stackName": "1511308177276",
+          "dimension": {
+            "width": 60,
+            "height": 60
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 1072,
+              "y": 386
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1514140796630",
+          "name": "Armor",
+          "imageName": "tank scan russian.png",
+          "stackName": "1514406849222",
+          "dimension": {
+            "width": 60,
+            "height": 60
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 1272,
+              "y": 142
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1514140803725",
+          "name": "Infantry",
+          "imageName": "infantry russian.png",
+          "stackName": "1514406849226",
+          "dimension": {
+            "width": 38,
+            "height": 62
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 1288,
+              "y": 82
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1514140786323",
+          "name": "Infantry",
+          "imageName": "infantry russian.png",
+          "stackName": "1514406849226",
+          "dimension": {
+            "width": 38,
+            "height": 62
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 1288,
+              "y": 82
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1514140783005",
+          "name": "Infantry",
+          "imageName": "infantry russian.png",
+          "stackName": "1514406849226",
+          "dimension": {
+            "width": 38,
+            "height": 62
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 1288,
+              "y": 82
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1506785447621",
+          "name": "Infantry",
+          "imageName": "infantry russian.png",
+          "stackName": "1514406849241",
+          "dimension": {
+            "width": 38,
+            "height": 62
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 1240,
+              "y": 102
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1511307747585",
+          "name": "Infantry",
+          "imageName": "infantry russian.png",
+          "stackName": "1514406849241",
+          "dimension": {
+            "width": 38,
+            "height": 62
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 1240,
+              "y": 102
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1511307738331",
+          "name": "Infantry",
+          "imageName": "infantry russian.png",
+          "stackName": "1514406849241",
+          "dimension": {
+            "width": 38,
+            "height": 62
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 1240,
+              "y": 102
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1514140793591",
+          "name": "Armor",
+          "imageName": "tank scan russian.png",
+          "stackName": "1514406921415",
+          "dimension": {
+            "width": 60,
+            "height": 60
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 1806,
+              "y": 253
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1506785428370",
+          "name": "Infantry",
+          "imageName": "infantry russian.png",
+          "stackName": "1514140856212",
+          "dimension": {
+            "width": 38,
+            "height": 62
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 1600,
+              "y": 590
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1511307736357",
+          "name": "Infantry",
+          "imageName": "infantry russian.png",
+          "stackName": "1514406951649",
+          "dimension": {
+            "width": 38,
+            "height": 62
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 1182,
+              "y": 382
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1511307742505",
+          "name": "Infantry",
+          "imageName": "infantry russian.png",
+          "stackName": "1514406953349",
+          "dimension": {
+            "width": 38,
+            "height": 62
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 1557,
+              "y": 282
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1505691415540",
+          "name": "Infantry",
+          "imageName": "infantry russian.png",
+          "stackName": "1511308382337",
+          "dimension": {
+            "width": 38,
+            "height": 62
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 1491,
+              "y": 470
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1514406599246",
+          "name": "Infantry",
+          "imageName": "infantry russian.png",
+          "stackName": "1514406599247",
+          "dimension": {
+            "width": 38,
+            "height": 62
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 1310,
+              "y": 378
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1514406602464",
+          "name": "Infantry",
+          "imageName": "infantry russian.png",
+          "stackName": "1514406599247",
+          "dimension": {
+            "width": 38,
+            "height": 62
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 1310,
+              "y": 378
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1514406600960",
+          "name": "Infantry",
+          "imageName": "infantry russian.png",
+          "stackName": "1514406599247",
+          "dimension": {
+            "width": 38,
+            "height": 62
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 1310,
+              "y": 378
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1514406604114",
+          "name": "Infantry",
+          "imageName": "infantry russian.png",
+          "stackName": "1514406599247",
+          "dimension": {
+            "width": 38,
+            "height": 62
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 1310,
+              "y": 378
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1514406606458",
+          "name": "Armor",
+          "imageName": "tank scan russian.png",
+          "stackName": "1514406606459",
+          "dimension": {
+            "width": 60,
+            "height": 60
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 1450,
+              "y": 296
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1505691415578",
+          "name": "Fighter",
+          "imageName": "fighter scan Japan.png",
+          "stackName": "1512340266358",
+          "dimension": {
+            "width": 60,
+            "height": 54
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 2100,
+              "y": 728
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1505691414841",
+          "name": "Bomber",
+          "imageName": "Bomber scan German.png",
+          "stackName": "1506789923206",
+          "dimension": {
+            "width": 133,
+            "height": 100
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 1457,
+              "y": 125
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1505691415610",
+          "name": "Fighter",
+          "imageName": "fighter scan Japan.png",
+          "stackName": "1514401382259",
+          "dimension": {
+            "width": 60,
+            "height": 54
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 1722,
+              "y": 630
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1505691415582",
+          "name": "Bomber",
+          "imageName": "Bomber scan Japan.png",
+          "stackName": "1514401379229",
+          "dimension": {
+            "width": 133,
+            "height": 100
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 1912,
+              "y": 507
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1505788460715",
+          "name": "Bomber",
+          "imageName": "Bomber scan Japan.png",
+          "stackName": "1514401379229",
+          "dimension": {
+            "width": 133,
+            "height": 100
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 1912,
+              "y": 507
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1514401276339",
+          "name": "Fighter",
+          "imageName": "fighter scan Japan.png",
+          "stackName": "1514401276340",
+          "dimension": {
+            "width": 60,
+            "height": 54
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 1640,
+              "y": 100
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1512340599875",
+          "name": "Fighter",
+          "imageName": "fighter scan US.png",
+          "stackName": "1514406517109",
+          "dimension": {
+            "width": 60,
+            "height": 54
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 2246,
+              "y": 1072
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1512340597681",
+          "name": "Fighter",
+          "imageName": "fighter scan US.png",
+          "stackName": "1512340597682",
+          "dimension": {
+            "width": 60,
+            "height": 54
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 495,
+              "y": 366
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1514406240134",
+          "name": "Fighter",
+          "imageName": "fighter scan US.png",
+          "stackName": "1514406240135",
+          "dimension": {
+            "width": 60,
+            "height": 54
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map0",
+            "salvoPoint": {
+              "x": 2590,
+              "y": 616
+            }
+          },
+          "visible": true
+        }
+      ],
+      "salvoToolbar": {
+        "id": 1,
+        "salvoToolbarItems": [
+          {
+            "description": "",
+            "buttonText": "",
+            "tooltip": "Zoom in",
+            "buttonIcon": "",
+            "buttonHotkey": ""
+          },
+          {
+            "description": "",
+            "buttonText": "",
+            "tooltip": "ZOOM: Select map zoom level",
+            "buttonIcon": "zoomselect.png",
+            "buttonHotkey": ""
+          },
+          {
+            "description": "",
+            "buttonText": "",
+            "tooltip": "Zoom out",
+            "buttonIcon": "",
+            "buttonHotkey": ""
+          },
+          {
+            "description": "",
+            "buttonText": "",
+            "tooltip": "OVERVIEW: Show map overview [CTRL SHIFT O]",
+            "buttonIcon": "overview.png",
+            "buttonHotkey": "79,195"
+          },
+          {
+            "description": "",
+            "buttonText": "",
+            "tooltip": "HIDE: Hide all pieces on this map",
+            "buttonIcon": null,
+            "buttonHotkey": ""
+          },
+          {
+            "description": "",
+            "buttonText": "",
+            "tooltip": "Mark all pieces on this map as not moved",
+            "buttonIcon": null,
+            "buttonHotkey": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "Map1",
+      "name": "Battle",
+      "imageName": "battleboard.png",
+      "zoom": 0.75,
+      "pieces": [
+        {
+          "id": "1505691415703",
+          "name": "RollTwos",
+          "imageName": "roll 2 a.png",
+          "stackName": null,
+          "dimension": {
+            "width": 50,
+            "height": 45
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map1",
+            "salvoPoint": {
+              "x": 405,
+              "y": 324
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1505691415709",
+          "name": "RollThrees",
+          "imageName": "roll 3 d.png",
+          "stackName": null,
+          "dimension": {
+            "width": 50,
+            "height": 45
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map1",
+            "salvoPoint": {
+              "x": 248,
+              "y": 441
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1505691415713",
+          "name": "RollFours",
+          "imageName": "roll 4 d.png",
+          "stackName": null,
+          "dimension": {
+            "width": 50,
+            "height": 45
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map1",
+            "salvoPoint": {
+              "x": 93,
+              "y": 441
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1505691415701",
+          "name": "RollOnes",
+          "imageName": "roll 1 d.png",
+          "stackName": null,
+          "dimension": {
+            "width": 50,
+            "height": 45
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map1",
+            "salvoPoint": {
+              "x": 558,
+              "y": 441
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1505691415711",
+          "name": "RollFours",
+          "imageName": "roll 4 a.png",
+          "stackName": null,
+          "dimension": {
+            "width": 50,
+            "height": 45
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map1",
+            "salvoPoint": {
+              "x": 93,
+              "y": 324
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1505691415705",
+          "name": "RollTwos",
+          "imageName": "roll 2 d.png",
+          "stackName": null,
+          "dimension": {
+            "width": 50,
+            "height": 45
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map1",
+            "salvoPoint": {
+              "x": 405,
+              "y": 441
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1505691415699",
+          "name": "RollOnes",
+          "imageName": "roll 1 a.png",
+          "stackName": null,
+          "dimension": {
+            "width": 50,
+            "height": 45
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map1",
+            "salvoPoint": {
+              "x": 558,
+              "y": 324
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1505691415707",
+          "name": "RollThrees",
+          "imageName": "roll 3 a.png",
+          "stackName": null,
+          "dimension": {
+            "width": 50,
+            "height": 45
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map1",
+            "salvoPoint": {
+              "x": 248,
+              "y": 324
+            }
+          },
+          "visible": true
+        }
+      ],
+      "salvoToolbar": {
+        "id": 2,
+        "salvoToolbarItems": [
+          {
+            "description": "",
+            "buttonText": "",
+            "tooltip": "Zoom in",
+            "buttonIcon": "",
+            "buttonHotkey": ""
+          },
+          {
+            "description": "",
+            "buttonText": "",
+            "tooltip": "Select Zoom",
+            "buttonIcon": "zoomselect.png",
+            "buttonHotkey": ""
+          },
+          {
+            "description": "",
+            "buttonText": "",
+            "tooltip": "Zoom out",
+            "buttonIcon": "",
+            "buttonHotkey": ""
+          },
+          {
+            "description": "",
+            "buttonText": "",
+            "tooltip": "DESTROY: Destroys any defending units marked as hit",
+            "buttonIcon": "button delete.png",
+            "buttonHotkey": ""
+          },
+          {
+            "description": "",
+            "buttonText": "",
+            "tooltip": "RETURN: Click after battle to return units to main board",
+            "buttonIcon": "button return.png",
+            "buttonHotkey": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "Map2",
+      "name": "U.S.S.R.",
+      "imageName": "USSR board.gif",
+      "zoom": 1,
+      "pieces": [
+        {
+          "id": "1514406990484",
+          "name": "10 IPCs",
+          "imageName": "PC10.gif",
+          "stackName": "1514406990485",
+          "dimension": {
+            "width": 250,
+            "height": 121
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map2",
+            "salvoPoint": {
+              "x": 600,
+              "y": 82
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1514406991759",
+          "name": "10 IPCs",
+          "imageName": "PC10.gif",
+          "stackName": "1514406990485",
+          "dimension": {
+            "width": 250,
+            "height": 121
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map2",
+            "salvoPoint": {
+              "x": 600,
+              "y": 82
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1514406993397",
+          "name": "5 IPCs",
+          "imageName": "PC5.gif",
+          "stackName": "1514406990485",
+          "dimension": {
+            "width": 250,
+            "height": 121
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map2",
+            "salvoPoint": {
+              "x": 600,
+              "y": 82
+            }
+          },
+          "visible": true
+        }
+      ],
+      "salvoToolbar": {
+        "id": 3,
+        "salvoToolbarItems": [
+          {
+            "description": "",
+            "buttonText": "",
+            "tooltip": "Zoom in",
+            "buttonIcon": "",
+            "buttonHotkey": ""
+          },
+          {
+            "description": "",
+            "buttonText": "",
+            "tooltip": "Select Zoom",
+            "buttonIcon": "zoomselect.png",
+            "buttonHotkey": ""
+          },
+          {
+            "description": "",
+            "buttonText": "",
+            "tooltip": "Zoom out",
+            "buttonIcon": "",
+            "buttonHotkey": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "Map3",
+      "name": "Germany",
+      "imageName": "German board.gif",
+      "zoom": 1,
+      "pieces": [],
+      "salvoToolbar": {
+        "id": 4,
+        "salvoToolbarItems": [
+          {
+            "description": "",
+            "buttonText": "",
+            "tooltip": "Zoom in",
+            "buttonIcon": "",
+            "buttonHotkey": ""
+          },
+          {
+            "description": "",
+            "buttonText": "",
+            "tooltip": "Select Zoom",
+            "buttonIcon": "zoomselect.png",
+            "buttonHotkey": ""
+          },
+          {
+            "description": "",
+            "buttonText": "",
+            "tooltip": "Zoom out",
+            "buttonIcon": "",
+            "buttonHotkey": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "Map4",
+      "name": "U.K.",
+      "imageName": "UK board.gif",
+      "zoom": 1,
+      "pieces": [
+        {
+          "id": "1514401211790",
+          "name": "10 IPCs",
+          "imageName": "PC10.gif",
+          "stackName": "1514401211791",
+          "dimension": {
+            "width": 250,
+            "height": 121
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map4",
+            "salvoPoint": {
+              "x": 607,
+              "y": 65
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1514401213372",
+          "name": "10 IPCs",
+          "imageName": "PC10.gif",
+          "stackName": "1514401211791",
+          "dimension": {
+            "width": 250,
+            "height": 121
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map4",
+            "salvoPoint": {
+              "x": 607,
+              "y": 65
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1514401214750",
+          "name": "10 IPCs",
+          "imageName": "PC10.gif",
+          "stackName": "1514401211791",
+          "dimension": {
+            "width": 250,
+            "height": 121
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map4",
+            "salvoPoint": {
+              "x": 607,
+              "y": 65
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1512339792193",
+          "name": "1 IPC",
+          "imageName": "PC1.gif",
+          "stackName": "1514401211791",
+          "dimension": {
+            "width": 250,
+            "height": 121
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map4",
+            "salvoPoint": {
+              "x": 607,
+              "y": 65
+            }
+          },
+          "visible": true
+        }
+      ],
+      "salvoToolbar": {
+        "id": 5,
+        "salvoToolbarItems": [
+          {
+            "description": "",
+            "buttonText": "",
+            "tooltip": "Zoom in",
+            "buttonIcon": "",
+            "buttonHotkey": ""
+          },
+          {
+            "description": "",
+            "buttonText": "",
+            "tooltip": "Select Zoom",
+            "buttonIcon": "zoomselect.png",
+            "buttonHotkey": ""
+          },
+          {
+            "description": "",
+            "buttonText": "",
+            "tooltip": "Zoom out",
+            "buttonIcon": "",
+            "buttonHotkey": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "Map5",
+      "name": "Japan",
+      "imageName": "Japan board.gif",
+      "zoom": 1,
+      "pieces": [
+        {
+          "id": "1514401654015",
+          "name": "10 IPCs",
+          "imageName": "PC10.gif",
+          "stackName": "1514401654016",
+          "dimension": {
+            "width": 250,
+            "height": 121
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map5",
+            "salvoPoint": {
+              "x": 626,
+              "y": 64
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1514401655363",
+          "name": "10 IPCs",
+          "imageName": "PC10.gif",
+          "stackName": "1514401654016",
+          "dimension": {
+            "width": 250,
+            "height": 121
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map5",
+            "salvoPoint": {
+              "x": 626,
+              "y": 64
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1514401656930",
+          "name": "10 IPCs",
+          "imageName": "PC10.gif",
+          "stackName": "1514401654016",
+          "dimension": {
+            "width": 250,
+            "height": 121
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map5",
+            "salvoPoint": {
+              "x": 626,
+              "y": 64
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1514401658734",
+          "name": "1 IPC",
+          "imageName": "PC1.gif",
+          "stackName": "1514401654016",
+          "dimension": {
+            "width": 250,
+            "height": 121
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map5",
+            "salvoPoint": {
+              "x": 626,
+              "y": 64
+            }
+          },
+          "visible": true
+        }
+      ],
+      "salvoToolbar": {
+        "id": 6,
+        "salvoToolbarItems": [
+          {
+            "description": "",
+            "buttonText": "",
+            "tooltip": "Zoom in",
+            "buttonIcon": "",
+            "buttonHotkey": ""
+          },
+          {
+            "description": "",
+            "buttonText": "",
+            "tooltip": "Select Zoom",
+            "buttonIcon": "zoomselect.png",
+            "buttonHotkey": ""
+          },
+          {
+            "description": "",
+            "buttonText": "",
+            "tooltip": "Zoom out",
+            "buttonIcon": "",
+            "buttonHotkey": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "Map6",
+      "name": "U.S.A.",
+      "imageName": "US board.gif",
+      "zoom": 1,
+      "pieces": [
+        {
+          "id": "1512340882846",
+          "name": "1 IPC",
+          "imageName": "PC1.gif",
+          "stackName": "1512340873611",
+          "dimension": {
+            "width": 250,
+            "height": 121
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map6",
+            "salvoPoint": {
+              "x": 617,
+              "y": 73
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1514406570596",
+          "name": "10 IPCs",
+          "imageName": "PC10.gif",
+          "stackName": "1512340873611",
+          "dimension": {
+            "width": 250,
+            "height": 121
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map6",
+            "salvoPoint": {
+              "x": 617,
+              "y": 73
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1514406572180",
+          "name": "10 IPCs",
+          "imageName": "PC10.gif",
+          "stackName": "1512340873611",
+          "dimension": {
+            "width": 250,
+            "height": 121
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map6",
+            "salvoPoint": {
+              "x": 617,
+              "y": 73
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1514406573564",
+          "name": "10 IPCs",
+          "imageName": "PC10.gif",
+          "stackName": "1512340873611",
+          "dimension": {
+            "width": 250,
+            "height": 121
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map6",
+            "salvoPoint": {
+              "x": 617,
+              "y": 73
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1514406574856",
+          "name": "5 IPCs",
+          "imageName": "PC5.gif",
+          "stackName": "1512340873611",
+          "dimension": {
+            "width": 250,
+            "height": 121
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map6",
+            "salvoPoint": {
+              "x": 617,
+              "y": 73
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1514406576288",
+          "name": "1 IPC",
+          "imageName": "PC1.gif",
+          "stackName": "1512340873611",
+          "dimension": {
+            "width": 250,
+            "height": 121
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map6",
+            "salvoPoint": {
+              "x": 617,
+              "y": 73
+            }
+          },
+          "visible": true
+        }
+      ],
+      "salvoToolbar": {
+        "id": 7,
+        "salvoToolbarItems": [
+          {
+            "description": "",
+            "buttonText": "",
+            "tooltip": "Zoom in",
+            "buttonIcon": "",
+            "buttonHotkey": ""
+          },
+          {
+            "description": "",
+            "buttonText": "",
+            "tooltip": "Select Zoom",
+            "buttonIcon": "zoomselect.png",
+            "buttonHotkey": ""
+          },
+          {
+            "description": "",
+            "buttonText": "",
+            "tooltip": "Zoom out",
+            "buttonIcon": "",
+            "buttonHotkey": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "Map7",
+      "name": "National Production",
+      "imageName": "National Production Chart.gif",
+      "zoom": 0.75,
+      "pieces": [
+        {
+          "id": "1505691415751",
+          "name": "U.S.A.",
+          "imageName": "US marker.png",
+          "stackName": "1508081322006",
+          "dimension": {
+            "width": 62,
+            "height": 64
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map7",
+            "salvoPoint": {
+              "x": 657,
+              "y": 427
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1505691415757",
+          "name": "U.K.",
+          "imageName": "UK marker.png",
+          "stackName": "1512339483052",
+          "dimension": {
+            "width": 66,
+            "height": 65
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map7",
+            "salvoPoint": {
+              "x": 206,
+              "y": 427
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1505691415755",
+          "name": "Germany",
+          "imageName": "German marker.png",
+          "stackName": "1514406870859",
+          "dimension": {
+            "width": 66,
+            "height": 67
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map7",
+            "salvoPoint": {
+              "x": 657,
+              "y": 310
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1505691415749",
+          "name": "U.S.S.R.",
+          "imageName": "Russian marker.png",
+          "stackName": "1505691415750",
+          "dimension": {
+            "width": 67,
+            "height": 66
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map7",
+            "salvoPoint": {
+              "x": 505,
+              "y": 310
+            }
+          },
+          "visible": true
+        },
+        {
+          "id": "1505691415753",
+          "name": "Japan",
+          "imageName": "Japan marker.png",
+          "stackName": "1514401175318",
+          "dimension": {
+            "width": 69,
+            "height": 69
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map7",
+            "salvoPoint": {
+              "x": 129,
+              "y": 427
+            }
+          },
+          "visible": true
+        }
+      ],
+      "salvoToolbar": {
+        "id": 8,
+        "salvoToolbarItems": [
+          {
+            "description": "",
+            "buttonText": "",
+            "tooltip": "Zoom in",
+            "buttonIcon": "",
+            "buttonHotkey": ""
+          },
+          {
+            "description": "",
+            "buttonText": "",
+            "tooltip": "Select Zoom",
+            "buttonIcon": "zoomselect.png",
+            "buttonHotkey": ""
+          },
+          {
+            "description": "",
+            "buttonText": "",
+            "tooltip": "Zoom out",
+            "buttonIcon": "",
+            "buttonHotkey": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "Map8",
+      "name": "Weapons Development",
+      "imageName": "weaponsdevchart.gif",
+      "zoom": 0.75,
+      "pieces": [
+        {
+          "id": "1505691415759",
+          "name": "Weapon Development Die",
+          "imageName": "",
+          "stackName": null,
+          "dimension": {
+            "width": 0,
+            "height": 0
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map8",
+            "salvoPoint": {
+              "x": 58,
+              "y": 637
+            }
+          },
+          "visible": false
+        },
+        {
+          "id": "1505691415761",
+          "name": "5",
+          "imageName": "5.png",
+          "stackName": null,
+          "dimension": {
+            "width": 40,
+            "height": 36
+          },
+          "locationOld": {
+            "salvoMapId": null,
+            "salvoPoint": null
+          },
+          "locationNew": {
+            "salvoMapId": "Map8",
+            "salvoPoint": {
+              "x": 156,
+              "y": 112
+            }
+          },
+          "visible": true
+        }
+      ],
+      "salvoToolbar": {
+        "id": 9,
+        "salvoToolbarItems": [
+          {
+            "description": "",
+            "buttonText": "",
+            "tooltip": "Zoom in",
+            "buttonIcon": "",
+            "buttonHotkey": ""
+          },
+          {
+            "description": "",
+            "buttonText": "",
+            "tooltip": "Select Zoom",
+            "buttonIcon": "zoomselect.png",
+            "buttonHotkey": ""
+          },
+          {
+            "description": "",
+            "buttonText": "",
+            "tooltip": "Zoom out",
+            "buttonIcon": "",
+            "buttonHotkey": ""
+          }
+        ]
+      }
+    }
+  ],
+  "salvoGamePiecePalettes": [
+    {
+      "type": "PIECE_WINDOW",
+      "id": "",
+      "name": "Hidden",
+      "width": null,
+      "height": null,
+      "tooltip": "Show/Hide the null window",
+      "contents": []
+    },
+    {
+      "type": "PIECE_WINDOW",
+      "id": "",
+      "name": "Units",
+      "width": null,
+      "height": null,
+      "tooltip": "UNITS: Game pieces",
+      "contents": [
+        {
+          "type": "TAB_WIDGET",
+          "id": "",
+          "name": "Pieces",
+          "width": null,
+          "height": null,
+          "tooltip": null,
+          "contents": [
+            {
+              "type": "LIST_WIDGET",
+              "id": "",
+              "name": "Germany",
+              "width": "326",
+              "height": "510",
+              "tooltip": null,
+              "contents": [
+                {
+                  "type": "PIECE_SLOT",
+                  "id": "8",
+                  "name": "Infantry",
+                  "width": "38",
+                  "height": "62",
+                  "tooltip": null,
+                  "contents": [
+                    {
+                      "id": null,
+                      "name": "Infantry",
+                      "imageName": "infantry german.png",
+                      "stackName": null,
+                      "dimension": {
+                        "width": 38,
+                        "height": 62
+                      },
+                      "locationOld": {
+                        "salvoMapId": null,
+                        "salvoPoint": null
+                      },
+                      "locationNew": {
+                        "salvoMapId": "PIECE_SLOT8",
+                        "salvoPoint": {
+                          "x": 0,
+                          "y": 0
+                        }
+                      },
+                      "visible": true
+                    }
+                  ]
+                },
+                {
+                  "type": "PIECE_SLOT",
+                  "id": "9",
+                  "name": "Armor",
+                  "width": "60",
+                  "height": "60",
+                  "tooltip": null,
+                  "contents": [
+                    {
+                      "id": null,
+                      "name": "Armor",
+                      "imageName": "tank scan german.png",
+                      "stackName": null,
+                      "dimension": {
+                        "width": 60,
+                        "height": 60
+                      },
+                      "locationOld": {
+                        "salvoMapId": null,
+                        "salvoPoint": null
+                      },
+                      "locationNew": {
+                        "salvoMapId": "PIECE_SLOT9",
+                        "salvoPoint": {
+                          "x": 0,
+                          "y": 0
+                        }
+                      },
+                      "visible": true
+                    }
+                  ]
+                },
+                {
+                  "type": "PIECE_SLOT",
+                  "id": "10",
+                  "name": "Fighter",
+                  "width": "60",
+                  "height": "54",
+                  "tooltip": null,
+                  "contents": [
+                    {
+                      "id": null,
+                      "name": "Fighter",
+                      "imageName": "fighter scan german.png",
+                      "stackName": null,
+                      "dimension": {
+                        "width": 60,
+                        "height": 54
+                      },
+                      "locationOld": {
+                        "salvoMapId": null,
+                        "salvoPoint": null
+                      },
+                      "locationNew": {
+                        "salvoMapId": "PIECE_SLOT10",
+                        "salvoPoint": {
+                          "x": 0,
+                          "y": 0
+                        }
+                      },
+                      "visible": true
+                    }
+                  ]
+                },
+                {
+                  "type": "PIECE_SLOT",
+                  "id": "11",
+                  "name": "Bomber",
+                  "width": "133",
+                  "height": "100",
+                  "tooltip": null,
+                  "contents": [
+                    {
+                      "id": null,
+                      "name": "Bomber",
+                      "imageName": "Bomber scan German.png",
+                      "stackName": null,
+                      "dimension": {
+                        "width": 133,
+                        "height": 100
+                      },
+                      "locationOld": {
+                        "salvoMapId": null,
+                        "salvoPoint": null
+                      },
+                      "locationNew": {
+                        "salvoMapId": "PIECE_SLOT11",
+                        "salvoPoint": {
+                          "x": 0,
+                          "y": 0
+                        }
+                      },
+                      "visible": true
+                    }
+                  ]
+                },
+                {
+                  "type": "PIECE_SLOT",
+                  "id": "12",
+                  "name": "Battleship",
+                  "width": "190",
+                  "height": "38",
+                  "tooltip": null,
+                  "contents": [
+                    {
+                      "id": null,
+                      "name": "Battleship",
+                      "imageName": "Battleship scan German.png",
+                      "stackName": null,
+                      "dimension": {
+                        "width": 190,
+                        "height": 38
+                      },
+                      "locationOld": {
+                        "salvoMapId": null,
+                        "salvoPoint": null
+                      },
+                      "locationNew": {
+                        "salvoMapId": "PIECE_SLOT12",
+                        "salvoPoint": {
+                          "x": 0,
+                          "y": 0
+                        }
+                      },
+                      "visible": true
+                    }
+                  ]
+                },
+                {
+                  "type": "PIECE_SLOT",
+                  "id": "13",
+                  "name": "Aircraft Carrier",
+                  "width": "201",
+                  "height": "48",
+                  "tooltip": null,
+                  "contents": [
+                    {
+                      "id": null,
+                      "name": "Aircraft Carrier",
+                      "imageName": "carrier scan German.png",
+                      "stackName": null,
+                      "dimension": {
+                        "width": 201,
+                        "height": 48
+                      },
+                      "locationOld": {
+                        "salvoMapId": null,
+                        "salvoPoint": null
+                      },
+                      "locationNew": {
+                        "salvoMapId": "PIECE_SLOT13",
+                        "salvoPoint": {
+                          "x": 0,
+                          "y": 0
+                        }
+                      },
+                      "visible": true
+                    }
+                  ]
+                },
+                {
+                  "type": "PIECE_SLOT",
+                  "id": "14",
+                  "name": "Transport",
+                  "width": "160",
+                  "height": "28",
+                  "tooltip": null,
+                  "contents": [
+                    {
+                      "id": null,
+                      "name": "Transport",
+                      "imageName": "transport scan German.png",
+                      "stackName": null,
+                      "dimension": {
+                        "width": 160,
+                        "height": 28
+                      },
+                      "locationOld": {
+                        "salvoMapId": null,
+                        "salvoPoint": null
+                      },
+                      "locationNew": {
+                        "salvoMapId": "PIECE_SLOT14",
+                        "salvoPoint": {
+                          "x": 0,
+                          "y": 0
+                        }
+                      },
+                      "visible": true
+                    }
+                  ]
+                },
+                {
+                  "type": "PIECE_SLOT",
+                  "id": "15",
+                  "name": "Submarine",
+                  "width": "140",
+                  "height": "35",
+                  "tooltip": null,
+                  "contents": [
+                    {
+                      "id": null,
+                      "name": "Submarine",
+                      "imageName": "sub scan german.png",
+                      "stackName": null,
+                      "dimension": {
+                        "width": 140,
+                        "height": 35
+                      },
+                      "locationOld": {
+                        "salvoMapId": null,
+                        "salvoPoint": null
+                      },
+                      "locationNew": {
+                        "salvoMapId": "PIECE_SLOT15",
+                        "salvoPoint": {
+                          "x": 0,
+                          "y": 0
+                        }
+                      },
+                      "visible": true
+                    }
+                  ]
+                },
+                {
+                  "type": "PIECE_SLOT",
+                  "id": "42",
+                  "name": "Marker",
+                  "width": "66",
+                  "height": "67",
+                  "tooltip": null,
+                  "contents": [
+                    {
+                      "id": null,
+                      "name": "Marker",
+                      "imageName": "German marker.png",
+                      "stackName": null,
+                      "dimension": {
+                        "width": 66,
+                        "height": 67
+                      },
+                      "locationOld": {
+                        "salvoMapId": null,
+                        "salvoPoint": null
+                      },
+                      "locationNew": {
+                        "salvoMapId": "PIECE_SLOT42",
+                        "salvoPoint": {
+                          "x": 0,
+                          "y": 0
+                        }
+                      },
+                      "visible": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "LIST_WIDGET",
+              "id": "",
+              "name": "Japan",
+              "width": "326",
+              "height": "510",
+              "tooltip": null,
+              "contents": [
+                {
+                  "type": "PIECE_SLOT",
+                  "id": "24",
+                  "name": "Infantry",
+                  "width": "38",
+                  "height": "62",
+                  "tooltip": null,
+                  "contents": [
+                    {
+                      "id": null,
+                      "name": "Infantry",
+                      "imageName": "infantry japan.png",
+                      "stackName": null,
+                      "dimension": {
+                        "width": 38,
+                        "height": 62
+                      },
+                      "locationOld": {
+                        "salvoMapId": null,
+                        "salvoPoint": null
+                      },
+                      "locationNew": {
+                        "salvoMapId": "PIECE_SLOT24",
+                        "salvoPoint": {
+                          "x": 0,
+                          "y": 0
+                        }
+                      },
+                      "visible": true
+                    }
+                  ]
+                },
+                {
+                  "type": "PIECE_SLOT",
+                  "id": "25",
+                  "name": "Armor",
+                  "width": "60",
+                  "height": "60",
+                  "tooltip": null,
+                  "contents": [
+                    {
+                      "id": null,
+                      "name": "Armor",
+                      "imageName": "tank scan japan.png",
+                      "stackName": null,
+                      "dimension": {
+                        "width": 60,
+                        "height": 60
+                      },
+                      "locationOld": {
+                        "salvoMapId": null,
+                        "salvoPoint": null
+                      },
+                      "locationNew": {
+                        "salvoMapId": "PIECE_SLOT25",
+                        "salvoPoint": {
+                          "x": 0,
+                          "y": 0
+                        }
+                      },
+                      "visible": true
+                    }
+                  ]
+                },
+                {
+                  "type": "PIECE_SLOT",
+                  "id": "26",
+                  "name": "Fighter",
+                  "width": "60",
+                  "height": "54",
+                  "tooltip": null,
+                  "contents": [
+                    {
+                      "id": null,
+                      "name": "Fighter",
+                      "imageName": "fighter scan Japan.png",
+                      "stackName": null,
+                      "dimension": {
+                        "width": 60,
+                        "height": 54
+                      },
+                      "locationOld": {
+                        "salvoMapId": null,
+                        "salvoPoint": null
+                      },
+                      "locationNew": {
+                        "salvoMapId": "PIECE_SLOT26",
+                        "salvoPoint": {
+                          "x": 0,
+                          "y": 0
+                        }
+                      },
+                      "visible": true
+                    }
+                  ]
+                },
+                {
+                  "type": "PIECE_SLOT",
+                  "id": "27",
+                  "name": "Bomber",
+                  "width": "133",
+                  "height": "100",
+                  "tooltip": null,
+                  "contents": [
+                    {
+                      "id": null,
+                      "name": "Bomber",
+                      "imageName": "Bomber scan Japan.png",
+                      "stackName": null,
+                      "dimension": {
+                        "width": 133,
+                        "height": 100
+                      },
+                      "locationOld": {
+                        "salvoMapId": null,
+                        "salvoPoint": null
+                      },
+                      "locationNew": {
+                        "salvoMapId": "PIECE_SLOT27",
+                        "salvoPoint": {
+                          "x": 0,
+                          "y": 0
+                        }
+                      },
+                      "visible": true
+                    }
+                  ]
+                },
+                {
+                  "type": "PIECE_SLOT",
+                  "id": "28",
+                  "name": "Battleship",
+                  "width": "190",
+                  "height": "38",
+                  "tooltip": null,
+                  "contents": [
+                    {
+                      "id": null,
+                      "name": "Battleship",
+                      "imageName": "Battleship scan Japan.png",
+                      "stackName": null,
+                      "dimension": {
+                        "width": 190,
+                        "height": 38
+                      },
+                      "locationOld": {
+                        "salvoMapId": null,
+                        "salvoPoint": null
+                      },
+                      "locationNew": {
+                        "salvoMapId": "PIECE_SLOT28",
+                        "salvoPoint": {
+                          "x": 0,
+                          "y": 0
+                        }
+                      },
+                      "visible": true
+                    }
+                  ]
+                },
+                {
+                  "type": "PIECE_SLOT",
+                  "id": "29",
+                  "name": "Aircraft Carrier",
+                  "width": "201",
+                  "height": "48",
+                  "tooltip": null,
+                  "contents": [
+                    {
+                      "id": null,
+                      "name": "Aircraft Carrier",
+                      "imageName": "carrier scan Japan.png",
+                      "stackName": null,
+                      "dimension": {
+                        "width": 201,
+                        "height": 48
+                      },
+                      "locationOld": {
+                        "salvoMapId": null,
+                        "salvoPoint": null
+                      },
+                      "locationNew": {
+                        "salvoMapId": "PIECE_SLOT29",
+                        "salvoPoint": {
+                          "x": 0,
+                          "y": 0
+                        }
+                      },
+                      "visible": true
+                    }
+                  ]
+                },
+                {
+                  "type": "PIECE_SLOT",
+                  "id": "30",
+                  "name": "Transport",
+                  "width": "160",
+                  "height": "28",
+                  "tooltip": null,
+                  "contents": [
+                    {
+                      "id": null,
+                      "name": "Transport",
+                      "imageName": "transport scan Japan.png",
+                      "stackName": null,
+                      "dimension": {
+                        "width": 160,
+                        "height": 28
+                      },
+                      "locationOld": {
+                        "salvoMapId": null,
+                        "salvoPoint": null
+                      },
+                      "locationNew": {
+                        "salvoMapId": "PIECE_SLOT30",
+                        "salvoPoint": {
+                          "x": 0,
+                          "y": 0
+                        }
+                      },
+                      "visible": true
+                    }
+                  ]
+                },
+                {
+                  "type": "PIECE_SLOT",
+                  "id": "31",
+                  "name": "Submarine",
+                  "width": "140",
+                  "height": "35",
+                  "tooltip": null,
+                  "contents": [
+                    {
+                      "id": null,
+                      "name": "Submarine",
+                      "imageName": "sub scan Japan.png",
+                      "stackName": null,
+                      "dimension": {
+                        "width": 140,
+                        "height": 35
+                      },
+                      "locationOld": {
+                        "salvoMapId": null,
+                        "salvoPoint": null
+                      },
+                      "locationNew": {
+                        "salvoMapId": "PIECE_SLOT31",
+                        "salvoPoint": {
+                          "x": 0,
+                          "y": 0
+                        }
+                      },
+                      "visible": true
+                    }
+                  ]
+                },
+                {
+                  "type": "PIECE_SLOT",
+                  "id": "44",
+                  "name": "Marker",
+                  "width": "69",
+                  "height": "69",
+                  "tooltip": null,
+                  "contents": [
+                    {
+                      "id": null,
+                      "name": "Marker",
+                      "imageName": "Japan marker.png",
+                      "stackName": null,
+                      "dimension": {
+                        "width": 69,
+                        "height": 69
+                      },
+                      "locationOld": {
+                        "salvoMapId": null,
+                        "salvoPoint": null
+                      },
+                      "locationNew": {
+                        "salvoMapId": "PIECE_SLOT44",
+                        "salvoPoint": {
+                          "x": 0,
+                          "y": 0
+                        }
+                      },
+                      "visible": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "LIST_WIDGET",
+              "id": "",
+              "name": "U.K.",
+              "width": "375",
+              "height": "517",
+              "tooltip": null,
+              "contents": [
+                {
+                  "type": "PIECE_SLOT",
+                  "id": "16",
+                  "name": "Infantry",
+                  "width": "38",
+                  "height": "62",
+                  "tooltip": null,
+                  "contents": [
+                    {
+                      "id": null,
+                      "name": "Infantry",
+                      "imageName": "infantry uk.png",
+                      "stackName": null,
+                      "dimension": {
+                        "width": 38,
+                        "height": 62
+                      },
+                      "locationOld": {
+                        "salvoMapId": null,
+                        "salvoPoint": null
+                      },
+                      "locationNew": {
+                        "salvoMapId": "PIECE_SLOT16",
+                        "salvoPoint": {
+                          "x": 0,
+                          "y": 0
+                        }
+                      },
+                      "visible": true
+                    }
+                  ]
+                },
+                {
+                  "type": "PIECE_SLOT",
+                  "id": "17",
+                  "name": "Armor",
+                  "width": "60",
+                  "height": "60",
+                  "tooltip": null,
+                  "contents": [
+                    {
+                      "id": null,
+                      "name": "Armor",
+                      "imageName": "tank scan UK.png",
+                      "stackName": null,
+                      "dimension": {
+                        "width": 60,
+                        "height": 60
+                      },
+                      "locationOld": {
+                        "salvoMapId": null,
+                        "salvoPoint": null
+                      },
+                      "locationNew": {
+                        "salvoMapId": "PIECE_SLOT17",
+                        "salvoPoint": {
+                          "x": 0,
+                          "y": 0
+                        }
+                      },
+                      "visible": true
+                    }
+                  ]
+                },
+                {
+                  "type": "PIECE_SLOT",
+                  "id": "18",
+                  "name": "Fighter",
+                  "width": "60",
+                  "height": "54",
+                  "tooltip": null,
+                  "contents": [
+                    {
+                      "id": null,
+                      "name": "Fighter",
+                      "imageName": "fighter scan UK.png",
+                      "stackName": null,
+                      "dimension": {
+                        "width": 60,
+                        "height": 54
+                      },
+                      "locationOld": {
+                        "salvoMapId": null,
+                        "salvoPoint": null
+                      },
+                      "locationNew": {
+                        "salvoMapId": "PIECE_SLOT18",
+                        "salvoPoint": {
+                          "x": 0,
+                          "y": 0
+                        }
+                      },
+                      "visible": true
+                    }
+                  ]
+                },
+                {
+                  "type": "PIECE_SLOT",
+                  "id": "19",
+                  "name": "Bomber",
+                  "width": "133",
+                  "height": "100",
+                  "tooltip": null,
+                  "contents": [
+                    {
+                      "id": null,
+                      "name": "Bomber",
+                      "imageName": "Bomber scan UK.png",
+                      "stackName": null,
+                      "dimension": {
+                        "width": 133,
+                        "height": 100
+                      },
+                      "locationOld": {
+                        "salvoMapId": null,
+                        "salvoPoint": null
+                      },
+                      "locationNew": {
+                        "salvoMapId": "PIECE_SLOT19",
+                        "salvoPoint": {
+                          "x": 0,
+                          "y": 0
+                        }
+                      },
+                      "visible": true
+                    }
+                  ]
+                },
+                {
+                  "type": "PIECE_SLOT",
+                  "id": "20",
+                  "name": "Battleship",
+                  "width": "190",
+                  "height": "38",
+                  "tooltip": null,
+                  "contents": [
+                    {
+                      "id": null,
+                      "name": "Battleship",
+                      "imageName": "Battleship scan UK.png",
+                      "stackName": null,
+                      "dimension": {
+                        "width": 190,
+                        "height": 38
+                      },
+                      "locationOld": {
+                        "salvoMapId": null,
+                        "salvoPoint": null
+                      },
+                      "locationNew": {
+                        "salvoMapId": "PIECE_SLOT20",
+                        "salvoPoint": {
+                          "x": 0,
+                          "y": 0
+                        }
+                      },
+                      "visible": true
+                    }
+                  ]
+                },
+                {
+                  "type": "PIECE_SLOT",
+                  "id": "21",
+                  "name": "Aircraft Carrier",
+                  "width": "201",
+                  "height": "48",
+                  "tooltip": null,
+                  "contents": [
+                    {
+                      "id": null,
+                      "name": "Aircraft Carrier",
+                      "imageName": "carrier scan UK.png",
+                      "stackName": null,
+                      "dimension": {
+                        "width": 201,
+                        "height": 48
+                      },
+                      "locationOld": {
+                        "salvoMapId": null,
+                        "salvoPoint": null
+                      },
+                      "locationNew": {
+                        "salvoMapId": "PIECE_SLOT21",
+                        "salvoPoint": {
+                          "x": 0,
+                          "y": 0
+                        }
+                      },
+                      "visible": true
+                    }
+                  ]
+                },
+                {
+                  "type": "PIECE_SLOT",
+                  "id": "22",
+                  "name": "Transport",
+                  "width": "160",
+                  "height": "28",
+                  "tooltip": null,
+                  "contents": [
+                    {
+                      "id": null,
+                      "name": "Transport",
+                      "imageName": "transport scan UK.png",
+                      "stackName": null,
+                      "dimension": {
+                        "width": 160,
+                        "height": 28
+                      },
+                      "locationOld": {
+                        "salvoMapId": null,
+                        "salvoPoint": null
+                      },
+                      "locationNew": {
+                        "salvoMapId": "PIECE_SLOT22",
+                        "salvoPoint": {
+                          "x": 0,
+                          "y": 0
+                        }
+                      },
+                      "visible": true
+                    }
+                  ]
+                },
+                {
+                  "type": "PIECE_SLOT",
+                  "id": "23",
+                  "name": "Submarine",
+                  "width": "140",
+                  "height": "35",
+                  "tooltip": null,
+                  "contents": [
+                    {
+                      "id": null,
+                      "name": "Submarine",
+                      "imageName": "sub scan UK.png",
+                      "stackName": null,
+                      "dimension": {
+                        "width": 140,
+                        "height": 35
+                      },
+                      "locationOld": {
+                        "salvoMapId": null,
+                        "salvoPoint": null
+                      },
+                      "locationNew": {
+                        "salvoMapId": "PIECE_SLOT23",
+                        "salvoPoint": {
+                          "x": 0,
+                          "y": 0
+                        }
+                      },
+                      "visible": true
+                    }
+                  ]
+                },
+                {
+                  "type": "PIECE_SLOT",
+                  "id": "43",
+                  "name": "Marker",
+                  "width": "66",
+                  "height": "65",
+                  "tooltip": null,
+                  "contents": [
+                    {
+                      "id": null,
+                      "name": "Marker",
+                      "imageName": "UK marker.png",
+                      "stackName": null,
+                      "dimension": {
+                        "width": 66,
+                        "height": 65
+                      },
+                      "locationOld": {
+                        "salvoMapId": null,
+                        "salvoPoint": null
+                      },
+                      "locationNew": {
+                        "salvoMapId": "PIECE_SLOT43",
+                        "salvoPoint": {
+                          "x": 0,
+                          "y": 0
+                        }
+                      },
+                      "visible": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "LIST_WIDGET",
+              "id": "",
+              "name": "U.S.A.",
+              "width": "375",
+              "height": "727",
+              "tooltip": null,
+              "contents": [
+                {
+                  "type": "PIECE_SLOT",
+                  "id": "32",
+                  "name": "Infantry",
+                  "width": "38",
+                  "height": "62",
+                  "tooltip": null,
+                  "contents": [
+                    {
+                      "id": null,
+                      "name": "Infantry",
+                      "imageName": "infantry us.png",
+                      "stackName": null,
+                      "dimension": {
+                        "width": 38,
+                        "height": 62
+                      },
+                      "locationOld": {
+                        "salvoMapId": null,
+                        "salvoPoint": null
+                      },
+                      "locationNew": {
+                        "salvoMapId": "PIECE_SLOT32",
+                        "salvoPoint": {
+                          "x": 0,
+                          "y": 0
+                        }
+                      },
+                      "visible": true
+                    }
+                  ]
+                },
+                {
+                  "type": "PIECE_SLOT",
+                  "id": "33",
+                  "name": "Armor",
+                  "width": "60",
+                  "height": "60",
+                  "tooltip": null,
+                  "contents": [
+                    {
+                      "id": null,
+                      "name": "Armor",
+                      "imageName": "tank scan US.png",
+                      "stackName": null,
+                      "dimension": {
+                        "width": 60,
+                        "height": 60
+                      },
+                      "locationOld": {
+                        "salvoMapId": null,
+                        "salvoPoint": null
+                      },
+                      "locationNew": {
+                        "salvoMapId": "PIECE_SLOT33",
+                        "salvoPoint": {
+                          "x": 0,
+                          "y": 0
+                        }
+                      },
+                      "visible": true
+                    }
+                  ]
+                },
+                {
+                  "type": "PIECE_SLOT",
+                  "id": "34",
+                  "name": "Fighter",
+                  "width": "60",
+                  "height": "54",
+                  "tooltip": null,
+                  "contents": [
+                    {
+                      "id": null,
+                      "name": "Fighter",
+                      "imageName": "fighter scan US.png",
+                      "stackName": null,
+                      "dimension": {
+                        "width": 60,
+                        "height": 54
+                      },
+                      "locationOld": {
+                        "salvoMapId": null,
+                        "salvoPoint": null
+                      },
+                      "locationNew": {
+                        "salvoMapId": "PIECE_SLOT34",
+                        "salvoPoint": {
+                          "x": 0,
+                          "y": 0
+                        }
+                      },
+                      "visible": true
+                    }
+                  ]
+                },
+                {
+                  "type": "PIECE_SLOT",
+                  "id": "35",
+                  "name": "Bomber",
+                  "width": "133",
+                  "height": "100",
+                  "tooltip": null,
+                  "contents": [
+                    {
+                      "id": null,
+                      "name": "Bomber",
+                      "imageName": "Bomber scan US.png",
+                      "stackName": null,
+                      "dimension": {
+                        "width": 133,
+                        "height": 100
+                      },
+                      "locationOld": {
+                        "salvoMapId": null,
+                        "salvoPoint": null
+                      },
+                      "locationNew": {
+                        "salvoMapId": "PIECE_SLOT35",
+                        "salvoPoint": {
+                          "x": 0,
+                          "y": 0
+                        }
+                      },
+                      "visible": true
+                    }
+                  ]
+                },
+                {
+                  "type": "PIECE_SLOT",
+                  "id": "36",
+                  "name": "Battleship",
+                  "width": "190",
+                  "height": "38",
+                  "tooltip": null,
+                  "contents": [
+                    {
+                      "id": null,
+                      "name": "Battleship",
+                      "imageName": "Battleship scan US.png",
+                      "stackName": null,
+                      "dimension": {
+                        "width": 190,
+                        "height": 38
+                      },
+                      "locationOld": {
+                        "salvoMapId": null,
+                        "salvoPoint": null
+                      },
+                      "locationNew": {
+                        "salvoMapId": "PIECE_SLOT36",
+                        "salvoPoint": {
+                          "x": 0,
+                          "y": 0
+                        }
+                      },
+                      "visible": true
+                    }
+                  ]
+                },
+                {
+                  "type": "PIECE_SLOT",
+                  "id": "37",
+                  "name": "Aircraft Carrier",
+                  "width": "201",
+                  "height": "48",
+                  "tooltip": null,
+                  "contents": [
+                    {
+                      "id": null,
+                      "name": "Aircraft Carrier",
+                      "imageName": "carrier scan US.png",
+                      "stackName": null,
+                      "dimension": {
+                        "width": 201,
+                        "height": 48
+                      },
+                      "locationOld": {
+                        "salvoMapId": null,
+                        "salvoPoint": null
+                      },
+                      "locationNew": {
+                        "salvoMapId": "PIECE_SLOT37",
+                        "salvoPoint": {
+                          "x": 0,
+                          "y": 0
+                        }
+                      },
+                      "visible": true
+                    }
+                  ]
+                },
+                {
+                  "type": "PIECE_SLOT",
+                  "id": "38",
+                  "name": "Transport",
+                  "width": "160",
+                  "height": "28",
+                  "tooltip": null,
+                  "contents": [
+                    {
+                      "id": null,
+                      "name": "Transport",
+                      "imageName": "transport scan US.png",
+                      "stackName": null,
+                      "dimension": {
+                        "width": 160,
+                        "height": 28
+                      },
+                      "locationOld": {
+                        "salvoMapId": null,
+                        "salvoPoint": null
+                      },
+                      "locationNew": {
+                        "salvoMapId": "PIECE_SLOT38",
+                        "salvoPoint": {
+                          "x": 0,
+                          "y": 0
+                        }
+                      },
+                      "visible": true
+                    }
+                  ]
+                },
+                {
+                  "type": "PIECE_SLOT",
+                  "id": "39",
+                  "name": "Submarine",
+                  "width": "140",
+                  "height": "35",
+                  "tooltip": null,
+                  "contents": [
+                    {
+                      "id": null,
+                      "name": "Submarine",
+                      "imageName": "sub scan US.png",
+                      "stackName": null,
+                      "dimension": {
+                        "width": 140,
+                        "height": 35
+                      },
+                      "locationOld": {
+                        "salvoMapId": null,
+                        "salvoPoint": null
+                      },
+                      "locationNew": {
+                        "salvoMapId": "PIECE_SLOT39",
+                        "salvoPoint": {
+                          "x": 0,
+                          "y": 0
+                        }
+                      },
+                      "visible": true
+                    }
+                  ]
+                },
+                {
+                  "type": "PIECE_SLOT",
+                  "id": "45",
+                  "name": "Marker",
+                  "width": "62",
+                  "height": "64",
+                  "tooltip": null,
+                  "contents": [
+                    {
+                      "id": null,
+                      "name": "Marker",
+                      "imageName": "US marker.png",
+                      "stackName": null,
+                      "dimension": {
+                        "width": 62,
+                        "height": 64
+                      },
+                      "locationOld": {
+                        "salvoMapId": null,
+                        "salvoPoint": null
+                      },
+                      "locationNew": {
+                        "salvoMapId": "PIECE_SLOT45",
+                        "salvoPoint": {
+                          "x": 0,
+                          "y": 0
+                        }
+                      },
+                      "visible": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "LIST_WIDGET",
+              "id": "",
+              "name": "U.S.S.R.",
+              "width": "326",
+              "height": "510",
+              "tooltip": null,
+              "contents": [
+                {
+                  "type": "PIECE_SLOT",
+                  "id": "0",
+                  "name": "Infantry",
+                  "width": "38",
+                  "height": "62",
+                  "tooltip": null,
+                  "contents": [
+                    {
+                      "id": null,
+                      "name": "Infantry",
+                      "imageName": "infantry russian.png",
+                      "stackName": null,
+                      "dimension": {
+                        "width": 38,
+                        "height": 62
+                      },
+                      "locationOld": {
+                        "salvoMapId": null,
+                        "salvoPoint": null
+                      },
+                      "locationNew": {
+                        "salvoMapId": "PIECE_SLOT0",
+                        "salvoPoint": {
+                          "x": 0,
+                          "y": 0
+                        }
+                      },
+                      "visible": true
+                    }
+                  ]
+                },
+                {
+                  "type": "PIECE_SLOT",
+                  "id": "1",
+                  "name": "Armor",
+                  "width": "60",
+                  "height": "60",
+                  "tooltip": null,
+                  "contents": [
+                    {
+                      "id": null,
+                      "name": "Armor",
+                      "imageName": "tank scan russian.png",
+                      "stackName": null,
+                      "dimension": {
+                        "width": 60,
+                        "height": 60
+                      },
+                      "locationOld": {
+                        "salvoMapId": null,
+                        "salvoPoint": null
+                      },
+                      "locationNew": {
+                        "salvoMapId": "PIECE_SLOT1",
+                        "salvoPoint": {
+                          "x": 0,
+                          "y": 0
+                        }
+                      },
+                      "visible": true
+                    }
+                  ]
+                },
+                {
+                  "type": "PIECE_SLOT",
+                  "id": "2",
+                  "name": "Fighter",
+                  "width": "60",
+                  "height": "54",
+                  "tooltip": null,
+                  "contents": [
+                    {
+                      "id": null,
+                      "name": "Fighter",
+                      "imageName": "fighter scan Russian.png",
+                      "stackName": null,
+                      "dimension": {
+                        "width": 60,
+                        "height": 54
+                      },
+                      "locationOld": {
+                        "salvoMapId": null,
+                        "salvoPoint": null
+                      },
+                      "locationNew": {
+                        "salvoMapId": "PIECE_SLOT2",
+                        "salvoPoint": {
+                          "x": 0,
+                          "y": 0
+                        }
+                      },
+                      "visible": true
+                    }
+                  ]
+                },
+                {
+                  "type": "PIECE_SLOT",
+                  "id": "3",
+                  "name": "Bomber",
+                  "width": "133",
+                  "height": "100",
+                  "tooltip": null,
+                  "contents": [
+                    {
+                      "id": null,
+                      "name": "Bomber",
+                      "imageName": "Bomber scan Russian.png",
+                      "stackName": null,
+                      "dimension": {
+                        "width": 133,
+                        "height": 100
+                      },
+                      "locationOld": {
+                        "salvoMapId": null,
+                        "salvoPoint": null
+                      },
+                      "locationNew": {
+                        "salvoMapId": "PIECE_SLOT3",
+                        "salvoPoint": {
+                          "x": 0,
+                          "y": 0
+                        }
+                      },
+                      "visible": true
+                    }
+                  ]
+                },
+                {
+                  "type": "PIECE_SLOT",
+                  "id": "4",
+                  "name": "Battleship",
+                  "width": "190",
+                  "height": "38",
+                  "tooltip": null,
+                  "contents": [
+                    {
+                      "id": null,
+                      "name": "Battleship",
+                      "imageName": "Battleship scan Russian.png",
+                      "stackName": null,
+                      "dimension": {
+                        "width": 190,
+                        "height": 38
+                      },
+                      "locationOld": {
+                        "salvoMapId": null,
+                        "salvoPoint": null
+                      },
+                      "locationNew": {
+                        "salvoMapId": "PIECE_SLOT4",
+                        "salvoPoint": {
+                          "x": 0,
+                          "y": 0
+                        }
+                      },
+                      "visible": true
+                    }
+                  ]
+                },
+                {
+                  "type": "PIECE_SLOT",
+                  "id": "5",
+                  "name": "Aircraft Carrier",
+                  "width": "201",
+                  "height": "48",
+                  "tooltip": null,
+                  "contents": [
+                    {
+                      "id": null,
+                      "name": "Aircraft Carrier",
+                      "imageName": "carrier scan Russian.png",
+                      "stackName": null,
+                      "dimension": {
+                        "width": 201,
+                        "height": 48
+                      },
+                      "locationOld": {
+                        "salvoMapId": null,
+                        "salvoPoint": null
+                      },
+                      "locationNew": {
+                        "salvoMapId": "PIECE_SLOT5",
+                        "salvoPoint": {
+                          "x": 0,
+                          "y": 0
+                        }
+                      },
+                      "visible": true
+                    }
+                  ]
+                },
+                {
+                  "type": "PIECE_SLOT",
+                  "id": "6",
+                  "name": "Transport",
+                  "width": "160",
+                  "height": "28",
+                  "tooltip": null,
+                  "contents": [
+                    {
+                      "id": null,
+                      "name": "Transport",
+                      "imageName": "transport scan Russian.png",
+                      "stackName": null,
+                      "dimension": {
+                        "width": 160,
+                        "height": 28
+                      },
+                      "locationOld": {
+                        "salvoMapId": null,
+                        "salvoPoint": null
+                      },
+                      "locationNew": {
+                        "salvoMapId": "PIECE_SLOT6",
+                        "salvoPoint": {
+                          "x": 0,
+                          "y": 0
+                        }
+                      },
+                      "visible": true
+                    }
+                  ]
+                },
+                {
+                  "type": "PIECE_SLOT",
+                  "id": "7",
+                  "name": "Submarine",
+                  "width": "140",
+                  "height": "35",
+                  "tooltip": null,
+                  "contents": [
+                    {
+                      "id": null,
+                      "name": "Submarine",
+                      "imageName": "sub scan Russia.png",
+                      "stackName": null,
+                      "dimension": {
+                        "width": 140,
+                        "height": 35
+                      },
+                      "locationOld": {
+                        "salvoMapId": null,
+                        "salvoPoint": null
+                      },
+                      "locationNew": {
+                        "salvoMapId": "PIECE_SLOT7",
+                        "salvoPoint": {
+                          "x": 0,
+                          "y": 0
+                        }
+                      },
+                      "visible": true
+                    }
+                  ]
+                },
+                {
+                  "type": "PIECE_SLOT",
+                  "id": "41",
+                  "name": "Marker",
+                  "width": "67",
+                  "height": "66",
+                  "tooltip": null,
+                  "contents": [
+                    {
+                      "id": null,
+                      "name": "Marker",
+                      "imageName": "Russian marker.png",
+                      "stackName": null,
+                      "dimension": {
+                        "width": 67,
+                        "height": 66
+                      },
+                      "locationOld": {
+                        "salvoMapId": null,
+                        "salvoPoint": null
+                      },
+                      "locationNew": {
+                        "salvoMapId": "PIECE_SLOT41",
+                        "salvoPoint": {
+                          "x": 0,
+                          "y": 0
+                        }
+                      },
+                      "visible": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "LIST_WIDGET",
+              "id": "",
+              "name": "Miscellaneous",
+              "width": "326",
+              "height": "510",
+              "tooltip": null,
+              "contents": [
+                {
+                  "type": "PIECE_SLOT",
+                  "id": "40",
+                  "name": "Industrial Complex",
+                  "width": "46",
+                  "height": "35",
+                  "tooltip": null,
+                  "contents": [
+                    {
+                      "id": null,
+                      "name": "Industrial Complex",
+                      "imageName": "Factory.png",
+                      "stackName": null,
+                      "dimension": {
+                        "width": 46,
+                        "height": 35
+                      },
+                      "locationOld": {
+                        "salvoMapId": null,
+                        "salvoPoint": null
+                      },
+                      "locationNew": {
+                        "salvoMapId": "PIECE_SLOT40",
+                        "salvoPoint": {
+                          "x": 0,
+                          "y": 0
+                        }
+                      },
+                      "visible": true
+                    }
+                  ]
+                },
+                {
+                  "type": "PIECE_SLOT",
+                  "id": "46",
+                  "name": "Antiaircraft",
+                  "width": "38",
+                  "height": "44",
+                  "tooltip": null,
+                  "contents": [
+                    {
+                      "id": null,
+                      "name": "Antiaircraft",
+                      "imageName": "aa gun.png",
+                      "stackName": null,
+                      "dimension": {
+                        "width": 38,
+                        "height": 44
+                      },
+                      "locationOld": {
+                        "salvoMapId": null,
+                        "salvoPoint": null
+                      },
+                      "locationNew": {
+                        "salvoMapId": "PIECE_SLOT46",
+                        "salvoPoint": {
+                          "x": 0,
+                          "y": 0
+                        }
+                      },
+                      "visible": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "PIECE_WINDOW",
+      "id": "",
+      "name": "IPCs",
+      "width": null,
+      "height": null,
+      "tooltip": "IPCs: IPC Bank",
+      "contents": [
+        {
+          "type": "PANEL_WIDGET",
+          "id": "",
+          "name": "IPCs",
+          "width": null,
+          "height": null,
+          "tooltip": null,
+          "contents": [
+            {
+              "type": "PIECE_SLOT",
+              "id": "49",
+              "name": "1 IPC",
+              "width": "250",
+              "height": "121",
+              "tooltip": null,
+              "contents": [
+                {
+                  "id": null,
+                  "name": "1 IPC",
+                  "imageName": "PC1.gif",
+                  "stackName": null,
+                  "dimension": {
+                    "width": 250,
+                    "height": 121
+                  },
+                  "locationOld": {
+                    "salvoMapId": null,
+                    "salvoPoint": null
+                  },
+                  "locationNew": {
+                    "salvoMapId": "PIECE_SLOT49",
+                    "salvoPoint": {
+                      "x": 0,
+                      "y": 0
+                    }
+                  },
+                  "visible": true
+                }
+              ]
+            },
+            {
+              "type": "PIECE_SLOT",
+              "id": "50",
+              "name": "5 IPCs",
+              "width": "250",
+              "height": "121",
+              "tooltip": null,
+              "contents": [
+                {
+                  "id": null,
+                  "name": "5 IPCs",
+                  "imageName": "PC5.gif",
+                  "stackName": null,
+                  "dimension": {
+                    "width": 250,
+                    "height": 121
+                  },
+                  "locationOld": {
+                    "salvoMapId": null,
+                    "salvoPoint": null
+                  },
+                  "locationNew": {
+                    "salvoMapId": "PIECE_SLOT50",
+                    "salvoPoint": {
+                      "x": 0,
+                      "y": 0
+                    }
+                  },
+                  "visible": true
+                }
+              ]
+            },
+            {
+              "type": "PIECE_SLOT",
+              "id": "51",
+              "name": "10 IPCs",
+              "width": "250",
+              "height": "121",
+              "tooltip": null,
+              "contents": [
+                {
+                  "id": null,
+                  "name": "10 IPCs",
+                  "imageName": "PC10.gif",
+                  "stackName": null,
+                  "dimension": {
+                    "width": 250,
+                    "height": 121
+                  },
+                  "locationOld": {
+                    "salvoMapId": null,
+                    "salvoPoint": null
+                  },
+                  "locationNew": {
+                    "salvoMapId": "PIECE_SLOT51",
+                    "salvoPoint": {
+                      "x": 0,
+                      "y": 0
+                    }
+                  },
+                  "visible": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

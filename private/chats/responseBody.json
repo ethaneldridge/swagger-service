@@ -1,0 +1,57 @@
+[
+  {
+    "id": "0",
+    "timestamp": "2017-12-28T19:39:45.567Z",
+    "message": " - Axis & Allies version 2.5"
+  },
+  {
+    "id": "1",
+    "timestamp": "2017-12-28T19:42:58.088Z",
+    "message": " - Loading 2017.12.26.1943.germany.vlog ..."
+  },
+  {
+    "id": "2",
+    "timestamp": "2017-12-28T19:43:01.219Z",
+    "message": " - Loaded 2017.12.26.1943.germany.vlog: pre-axis surrender"
+  },
+  {
+    "id": "3",
+    "timestamp": "2017-12-28T19:43:09.691Z",
+    "message": "<collin eldridge> - I surrender"
+  },
+  {
+    "id": "4",
+    "timestamp": "2017-12-28T19:43:11.16Z",
+    "message": "<Ethan Eldridge> - Thanks for playing!  gg"
+  },
+  {
+    "id": "5",
+    "timestamp": "2017-12-28T19:43:45.751Z",
+    "message": " - Loading 2017.12.26.1943.germany.vsav ..."
+  },
+  {
+    "id": "6",
+    "timestamp": "2017-12-28T19:43:51.246Z",
+    "message": " - Loaded 2017.12.26.1943.germany.vsav: post-surrender"
+  },
+  {
+    "id": "7",
+    "timestamp": "2017-12-28T19:44:08.791Z",
+    "message": " - Loading 2017.12.26.1943.germany.vlog ..."
+  },
+  {
+    "id": "8",
+    "timestamp": "2017-12-28T19:44:10.834Z",
+    "message": " - Loaded 2017.12.26.1943.germany.vlog: pre-axis surrender"
+  },
+  {
+    "id": "9",
+    "timestamp": "2017-12-28T19:44:16.713Z",
+    "message": "<collin eldridge> - I surrender"
+  },
+  {
+    "id": "10",
+    "timestamp": "2017-12-28T19:44:17.717Z",
+    "message": "<Ethan Eldridge> - Thanks for playing!  gg"
+  }
+]

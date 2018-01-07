@@ -27,7 +27,8 @@ function init() {
       context.drawImage(mapImage, 0, 0);
       drawGamePieces(context, gameState, gamePieceImages);
     }
-    mapImage.src = "/images/" + mapMain.imageName;
+    
+    mapImage.src = "http://d36wq1hlie2sk1.cloudfront.net/Axis & Allies/images/" + mapMain.imageName;
   }
 
   $.ajax({url: "/salvo/gamestate", success: serverState});
@@ -49,7 +50,7 @@ function drawGamePieces(context, gameState, gamePieceImages) {
         drawUnits(context, gameState, gamePieceImages)
       }
     }
-    img.src = "/images/" + piece.imageName;
+    img.src = "http://d36wq1hlie2sk1.cloudfront.net/Axis & Allies/images/" + piece.imageName;
   }
 }
 
@@ -64,7 +65,7 @@ function drawUnits(context, gameState, gamePieceImages) {
   for (var i = 0; i < mapMain.pieces.length; i++) {
 
     var piece = mapMain.pieces[i];
-    if (stackName == piece.stackName) {
+    if (piece.stackName && (stackName == piece.stackName)) {
       stacked = true;
       stackXOffset += 5;
       stackYOffset -= 5;
